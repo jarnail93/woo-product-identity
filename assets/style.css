@@ -1,0 +1,30 @@
+.wpi-product-identity {
+  display: inline-block;
+  width: 100%;
+  max-width: fit-content;
+  vertical-align: top;
+}
+.wpi-product-identity figure {
+  margin: 0 auto;
+  background: #d7cad2;
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
+.wpi-product-identity img {
+  margin: 0 auto;
+  border-radius: 0;
+  max-width: 100%;
+  width: auto;
+}
+.wpi-product-identity figcaption {
+  margin-top: 5px;
+}
+
+/*------------------------------------------------------------------------*/
+/*-------------------- Above this is QR code styling ---------------------*/
+/*------------------------------------------------------------------------*/
+#wpi-product-info dl {
+  margin: 0;
+  padding: 0;
+}
